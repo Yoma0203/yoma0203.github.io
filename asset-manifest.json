@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yoma0203.github.io/static/css/main.41c65691.chunk.css",
+    "main.js": "/yoma0203.github.io/static/js/main.1081f979.chunk.js",
+    "main.js.map": "/yoma0203.github.io/static/js/main.1081f979.chunk.js.map",
+    "runtime-main.js": "/yoma0203.github.io/static/js/runtime-main.8020cf62.js",
+    "runtime-main.js.map": "/yoma0203.github.io/static/js/runtime-main.8020cf62.js.map",
+    "static/js/2.e4f3ad99.chunk.js": "/yoma0203.github.io/static/js/2.e4f3ad99.chunk.js",
+    "static/js/2.e4f3ad99.chunk.js.map": "/yoma0203.github.io/static/js/2.e4f3ad99.chunk.js.map",
+    "index.html": "/yoma0203.github.io/index.html",
+    "precache-manifest.ffccdec56d62c320b359a50450770e8b.js": "/yoma0203.github.io/precache-manifest.ffccdec56d62c320b359a50450770e8b.js",
+    "service-worker.js": "/yoma0203.github.io/service-worker.js",
+    "static/css/main.41c65691.chunk.css.map": "/yoma0203.github.io/static/css/main.41c65691.chunk.css.map",
+    "static/js/2.e4f3ad99.chunk.js.LICENSE.txt": "/yoma0203.github.io/static/js/2.e4f3ad99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8020cf62.js",
+    "static/js/2.e4f3ad99.chunk.js",
+    "static/css/main.41c65691.chunk.css",
+    "static/js/main.1081f979.chunk.js"
+  ]
+}
